@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Learnify/static/css/main.71cb606d.css",
-    "main.js": "/Learnify/static/js/main.0cd276e8.js",
+    "main.css": "/Learnify/static/css/main.3e3d2420.css",
+    "main.js": "/Learnify/static/js/main.3919b1d8.js",
     "static/js/453.1e1dd73b.chunk.js": "/Learnify/static/js/453.1e1dd73b.chunk.js",
     "static/media/group-of-people-sitting-beside-table-2422295.jpg": "/Learnify/static/media/group-of-people-sitting-beside-table-2422295.fea34161f6c2c819cb34.jpg",
     "static/media/carousel-2.jpg": "/Learnify/static/media/carousel-2.61ff107faeb450e42665.jpg",
@@ -15,12 +15,12 @@
     "static/media/icon2.PNG": "/Learnify/static/media/icon2.13649b82206d1c6d7156.PNG",
     "static/media/icon1.PNG": "/Learnify/static/media/icon1.6f6725ada2f57cf1f68e.PNG",
     "static/media/icon3.PNG": "/Learnify/static/media/icon3.44499cb8df397c18e0b7.PNG",
-    "main.71cb606d.css.map": "/Learnify/static/css/main.71cb606d.css.map",
-    "main.0cd276e8.js.map": "/Learnify/static/js/main.0cd276e8.js.map",
+    "main.3e3d2420.css.map": "/Learnify/static/css/main.3e3d2420.css.map",
+    "main.3919b1d8.js.map": "/Learnify/static/js/main.3919b1d8.js.map",
     "453.1e1dd73b.chunk.js.map": "/Learnify/static/js/453.1e1dd73b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.71cb606d.css",
-    "static/js/main.0cd276e8.js"
+    "static/css/main.3e3d2420.css",
+    "static/js/main.3919b1d8.js"
   ]
 }
